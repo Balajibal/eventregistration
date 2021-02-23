@@ -341,11 +341,16 @@ To create a UX design and develop a web application for event registration.## PR
 ```
 
 ## OUTPUT:
-![output](./static/img/o1.png)
+![output](./static/img/ux1.png)
 
-![output](./static/img/o2.png)
+![output](./static/img/ux2.png)
 
-![output](./static/img/o3.png)
+![output](./static/img/ux3.png)
+
+![output](./static/img/ux4.png)
+
+![output](./static/img/ux5.png)
+
 
 
 
